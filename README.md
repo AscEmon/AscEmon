@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [your name], and I'm a software developer currently learning and exploring new technologies. Here are some of the things I'm currently working on:
+I'm Sayed, and I'm a software developer currently learning and exploring new technologies. Here are some of the things I'm currently working on:
 
 - 🚀 Learning and building projects with Jetpack Compose, Kotlin, and Swift
 - 💻 Working with Flutter, Dart, and Firebase for app development
@@ -8,9 +8,8 @@ I'm [your name], and I'm a software developer currently learning and exploring n
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])
-- [Skype](https://join.skype.com/[your-skype-username])
-- Email: [your-email-address]
+- [LinkedIn](https://www.linkedin.com/in/abu-sayed-chowdhury/)
+- Email: [sayem227@gmail.com]
 
 ## Languages and Tools
 
