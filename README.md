@@ -13,7 +13,7 @@ I'm Sayed, and I'm a software developer currently learning and exploring new tec
     <a href="mailto:sayem227@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
     <a href="https://www.linkedin.com/in/abu-sayed-chowdhury/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="live:sayem227_1"><img src="https://img.icons8.com/color/48/000000/skype.png"/></a>
-    <a href="https://medium.com/@sayem227"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
+    <a href="https://medium.com/@sayem227"><img src="https://icons8.com/icon/110611/medium-monogram"/></a>
   </p>
 </div>
 
